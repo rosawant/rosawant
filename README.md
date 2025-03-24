@@ -24,11 +24,12 @@ ___
 - GCP (GKE, Workload Identity Federation, HTTPS Proxy)
 
 **IaC & Automation:**
-- Terraform (+ Modules: `terraform-aws-modules`, reusable patterns)
+- Terraform/OpenTofu, CloudFormation
 - GitLab CI/CD Pipelines
 - Bash scripting, Python (for automation tasks)
 
 **Kubernetes Ecosystem:**
+- EKS, GKE
 - GKE, Istio ingress
 - MinIO as GCS Gateway
 - Kubeflow deployments
@@ -36,10 +37,9 @@ ___
 **Secrets & Security:**
 - AWS IAM best practices
 - SSM Parameter Store & Conjur secret management
-- Terraform dynamic IAM policies (`jsonencode()`, `templatefile()`)
-
+- Vault
 **Performance & Monitoring:**
-- LoadRunner & TruClient for load testing
+- Postman & Jmeter for load testing
 - Dynatrace APM
 
 
