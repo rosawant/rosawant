@@ -1,5 +1,17 @@
 # Hi 👋, I Am Roshan Sawant
-🌍  DevOps | Cloud | Infrastructure as Code | CICD |  Performance Engineering
+🌍  DevOps | Cloud | Infrastructure as Code | CICD |  Performance Engineering <br>
+
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="Amazon Web Services" alt="AWS Logo" width="100"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" title="Google Cloud" alt="Gitlab" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="Gitlab Logo" alt="Gitlab" width="70"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins" alt="Jenkins" width="50"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" title="Terraform" alt="Terraform" width="60"/>&emsp;
+
+
+
 
 
 <!-- Actual text -->
@@ -45,11 +57,6 @@ ___
 
 
  
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="Amazon Web Services" alt="AWS Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="Gitlab Logo" alt="Gitlab" width="70"/>&emsp;
 
  <br>
 <!---
