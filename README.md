@@ -1,5 +1,5 @@
 # Hi 👋, I Am Roshan Sawant
-🌍  DevOps | Cloud | Infrastructure as Code | CICD |  Performance Engineering <br>
+🌍  DevOps | Cloud | Infrastructure as Code | CICD  <br>
 
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
