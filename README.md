@@ -38,12 +38,12 @@ ___
 **IaC & Automation:**
 - Terraform/OpenTofu, CloudFormation
 - GitLab CI/CD Pipelines
-- Bash scripting, Python (for automation tasks)
+- Bash scripting, Python 
 
 **Kubernetes Ecosystem:**
 - EKS, GKE
-- GKE, Istio ingress
-- MinIO as GCS Gateway
+- Istio 
+- Kustomize, helm 
 - Kubeflow deployments
 
 **Secrets & Security:**
@@ -52,7 +52,7 @@ ___
 - Vault
 **Performance & Monitoring:**
 - Postman & Jmeter for load testing
-- Dynatrace APM
+
 
 
 
