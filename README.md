@@ -50,6 +50,7 @@ ___
 - AWS IAM best practices
 - SSM Parameter Store & Conjur secret management
 - Vault
+  
 **Performance & Monitoring:**
 - Postman & Jmeter for load testing
 
