@@ -1,71 +1,108 @@
-# Hi 👋, I Am Roshan Sawant
-🌍  DevOps | Cloud | Infrastructure as Code | CICD  <br>
+# 👋 Hi, I'm Roshan Sawant
 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="Amazon Web Services" alt="AWS Logo" width="100"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" title="Google Cloud" alt="Gitlab" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" title="Terraform" alt="Terraform" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/aws-cloudformation.svg" title="AWS Cloudformation" alt="Cloudformation" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="Gitlab Logo" alt="Gitlab" width="70"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins" alt="Jenkins" width="50"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logo/prometheus.svg" title="Prometheus Logo" alt="Prometheus Logo" width="60"/>&emsp;
+![Visitors](https://komarev.com/ghpvc/?username=rosawant&color=blue)
+
+🚀 **Cloud Infrastructure Engineer | DevOps | Kubernetes | Infrastructure as Code**
+
+I specialize in building **secure, scalable, and automated cloud platforms** using modern **DevOps and cloud-native technologies**.
+
+---
+
+# 🧰 DevOps & Cloud Tools
+
+### ☁️ Cloud Platforms
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="70"/>
+
+### 🏗 Infrastructure as Code
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="60"/>&emsp;
+<img src="https://icon-icons.com/icons2/2699/PNG/512/amazon_cloudformation_logo_icon_169610.png" width="60"/>
+
+### ☸️ Containers & Kubernetes
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="70"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="65"/>&emsp;
+
+### 🚀 CI/CD
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="70"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" width="50"/>
+
+### 📊 Observability
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" width="60"/>
+
+---
+
+# 💻 What I Do
+
+## ☁️ Cloud Infrastructure
+- Design and manage **AWS cloud architectures**
+- Work with **API Gateway, Lambda, S3, CloudFront, Aurora, Route53**
+- Secure infrastructure using **IAM and SSM**
+
+## 🏗 Infrastructure Automation
+- Infrastructure provisioning with **Terraform / OpenTofu**
+- Build reusable infrastructure modules
+- AWS resource automation using **CloudFormation**
+
+## 🚀 CI/CD & DevOps
+- Build **multi-cloud CI/CD pipelines**
+- Automate deployments using **GitLab CI/CD & GitHub Actions**
+- Implement secure authentication using **GCP Workload Identity Federation**
+
+## ☸️ Kubernetes & Cloud Native
+- Deploy applications on **EKS and GKE**
+- Kubernetes management using **Helm and Kustomize**
+- Configure **Istio service mesh**
+- Kubeflow infrastructure deployment
+
+## 🔐 Security
+- IAM least-privilege architecture
+- Secret management using **SSM Parameter Store, Conjur, Vault**
+
+## 📊 Observability & Performance
+- Monitoring with **Prometheus & Grafana**
+- Load testing with **JMeter, Postman, LoadRunner**
+- Application monitoring using **Dynatrace**
+
+---
+
+# 🛠 Tech Stack
+
+| Category | Tools |
+|---|---|
+| Cloud | AWS, Google Cloud |
+| Infrastructure as Code | Terraform, OpenTofu, CloudFormation |
+| CI/CD | GitLab CI/CD, GitHub Actions, Jenkins |
+| Containers | Docker, Kubernetes |
+| Kubernetes Tools | Helm, Kustomize, Istio |
+| Monitoring | Prometheus, Grafana, Dynatrace |
+| Languages | Python, Bash |
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosawant&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosawant&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rosawant&theme=tokyo-night)
+
+---
 
 
+---
 
-<!-- Actual text -->
+# 🌐 Connect With Me
 
-
-I'm a Cloud Infrastructure Engineer passionate about automating secure, scalable, and efficient cloud environments. I specialize in:
-
- - AWS Infrastructure Automation using Terraform with heavy use of terraform-aws-modules
- - Multi-Cloud CI/CD Pipelines: GitLab CI/CD, Github Actions, GCP Workload Identity Federation, GKE deployments
- - Serverless Architectures: API Gateway, Lambda, Aurora DB, SSM Parameter Store integrations
- - Cloud Security: Fine-grained IAM policies, secrets management with SSM & Conjur
- - Kubernetes & GKE: Istio ingress, DNS management, Kubeflow, HTTPS proxies
- - Performance Engineering: LoadRunner, TruClient, Dynatrace monitoring
-___
-
-## 🛠️ Tech Stack
-
-**Cloud Platforms:**
-- AWS (API Gateway, Lambda, S3, CloudFront, Aurora, IAM, SSM, Route53)
-- GCP (GKE, Workload Identity Federation, HTTPS Proxy)
-
-**IaC & Automation:**
-- Terraform/OpenTofu, CloudFormation
-- GitLab CI/CD Pipelines, Github Actions
-- Bash scripting, Python 
-
-**Kubernetes Ecosystem:**
-- EKS, GKE, ECS
-- Istio 
-- Kustomize, helm 
-- Kubeflow deployments
-
-**Secrets & Security:**
-- AWS IAM best practices
-- SSM Parameter Store & Conjur secret management
-- Vault
-  
-**Performance & Monitoring:**
-- Postman & Jmeter for load testing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roshan%20Sawant-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/roshan-sawant)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:roshansawant700@gmail.com)
 
 
+---
 
-
- 
-
- <br>
-<!---
-rosawant/rosawant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<br>
---->
+⭐ *Passionate about building automated cloud infrastructure and improving platform reliability.*
