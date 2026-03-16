@@ -1,28 +1,26 @@
 # Hi 👋, I Am Roshan Sawant
 🌍  DevOps | Cloud | Infrastructure as Code | CICD  <br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="Amazon Web Services" alt="AWS Logo" width="100"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" title="Google Cloud" alt="Gitlab" width="80"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" title="Terraform" alt="Terraform" width="60"/>&emsp;
+<img src="https://worldvectorlogo.com/logo/aws-cloudformation" title="Terraform" alt="Terraform" width="60"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="80"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" title="Kubernetes" alt="Kubernetes Logo" width="65"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="Gitlab Logo" alt="Gitlab" width="70"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" title="Jenkins" alt="Jenkins" width="50"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" title="Terraform" alt="Terraform" width="60"/>&emsp;
-
-
+<img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
+<img src="https://worldvectorlogo.com/logo/prometheus" title="Grafana Logo" alt="Grafana Logo" width="60"/>&emsp;
 
 
 
 <!-- Actual text -->
 
-<a href="https://www.linkedin.com/in/roshan-sawant/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<br>
 
 I'm a Cloud Infrastructure Engineer passionate about automating secure, scalable, and efficient cloud environments. I specialize in:
 
  - AWS Infrastructure Automation using Terraform with heavy use of terraform-aws-modules
- - Multi-Cloud CI/CD Pipelines: GitLab CI/CD, GCP Workload Identity Federation, GKE deployments
+ - Multi-Cloud CI/CD Pipelines: GitLab CI/CD, Github Actions, GCP Workload Identity Federation, GKE deployments
  - Serverless Architectures: API Gateway, Lambda, Aurora DB, SSM Parameter Store integrations
  - Cloud Security: Fine-grained IAM policies, secrets management with SSM & Conjur
  - Kubernetes & GKE: Istio ingress, DNS management, Kubeflow, HTTPS proxies
@@ -37,11 +35,11 @@ ___
 
 **IaC & Automation:**
 - Terraform/OpenTofu, CloudFormation
-- GitLab CI/CD Pipelines
+- GitLab CI/CD Pipelines, Github Actions
 - Bash scripting, Python 
 
 **Kubernetes Ecosystem:**
-- EKS, GKE
+- EKS, GKE, ECS
 - Istio 
 - Kustomize, helm 
 - Kubeflow deployments
