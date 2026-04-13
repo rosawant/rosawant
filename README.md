@@ -80,13 +80,6 @@ I specialize in building **secure, scalable, and automated cloud platforms** usi
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosawant&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosawant&layout=compact&theme=tokyonight)
-
----
 
 # 📈 Contribution Graph
 
