@@ -71,12 +71,15 @@ I specialize in building **secure, scalable, and automated cloud platforms** usi
 | Category | Tools |
 |---|---|
 | Cloud | AWS, Google Cloud |
-| Infrastructure as Code | Terraform, OpenTofu, CloudFormation |
-| CI/CD | GitLab CI/CD, GitHub Actions, Jenkins |
+| Infrastructure as Code | Terraform/OpenTofu, CloudFormation |
+| CI/CD | GitLab CI/CD, GitHub Actions, Jenkins, Bamboo |
 | Containers | Docker, Kubernetes |
 | Kubernetes Tools | Helm, Kustomize, Istio |
 | Monitoring | Prometheus, Grafana, Dynatrace |
 | Languages | Python, Bash |
+| Backup and Restore | Velero |
+| Configuration Management |  Ansible, Puppet |
+| Secret management | Vault, CyberArk Conjur, AWS/GCP Secret Manager
 
 ---
 
